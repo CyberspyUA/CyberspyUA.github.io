@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "https://github.com/CyberspyUA",
   instagram: "https://www.instagram.com/nikita_struk_/",
   linkedIn: "https://www.linkedin.com/in/nikita-struk-game-developer/",
-  medium: "",
+  medium: "https://medium.com/@Nikita_Struk",
   twitter: "",
   youTube: "https://www.youtube.com/channel/UCfH92NuZyHnm7WcpcrxAKJg",
 };

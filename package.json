@@ -1,8 +1,8 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "nikita-struk-portfolio-website",
   "version": "1.0.0",
-  "description": "Nikita Struk portfolio website",
-  "source": "index.html",
+  "description": "Niktia Struk portfolio website",
+  "source": "src/index.html",
   "homepage": "https://CyberspyUA.github.io/CyberspyUA.github.io",
   "scripts": {
     "start": "parcel",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/CyberspyUA/CyberspyUA.github.io.git"
   },
   "author": "Nikita Struk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/CyberspyUA/CyberspyUA.github.io/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
